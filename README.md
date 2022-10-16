@@ -9,7 +9,7 @@ Repository for Coding Practice of IEEE Members.
   - [Git Guide by Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
   - Markdown Language - [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 
-## How to Get started with CPP?
+## How to get started with CP/DSA?
 
 1.  Clone this repository using this command -
     `git clone https://github.com/DevanshKapri/code-along.git`
