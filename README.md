@@ -12,28 +12,30 @@ Repository for Coding Practice of IEEE Members.
 ## How to Get started with CPP?
 
 1.  Clone this repository using this command -
-    ```git clone https://github.com/DevanshKapri/code-along.git```
+    `git clone https://github.com/DevanshKapri/code-along.git`
 
 2.  Create a branch with your name and cpp. (e.g. devansh-cpp)
-    ```git checkout -b <your-branch-name>```
+    `git checkout -b <your-branch-name>`
 
 3.  Update the readme with problems that you've completed using the following template. Add new table for ever Problem Set and replace X with the Set No.
 
     ```
-    #### Name -
-    #### Branch -
+    #### Name - <your-name>
+    #### Branch - <your-branch>
     #### Pset X -
     | Problem Link | Status | Submission Link |
     | ------------- |:-------------:| -----:|
-    | Link 1 | Done| Sub-Link 1 |
+    | Link 1 | Done | Sub-Link 1 |
     | Link 2 | Done | Sub-Link 2 |
     | Link 3 | Not Done |  |
     ```
 
     It'll look something like this -
 
-    #### Name -
-    #### Branch -
+    #### Name - <your-name>
+
+    #### Branch - <your-branch>
+
     #### Pset X -
 
     | Problem Link |  Status  | Submission Link |
@@ -43,7 +45,10 @@ Repository for Coding Practice of IEEE Members.
     | Link 3       | Not Done |                 |
 
 4.  Commit and push the code to your branch after these steps.
+
     ```
     git commit -am "day 1 update"
     git push origin <your-branch-name>
     ```
+
+5.  You can find problem sets updated regularly on the cpp branch. `git checkout <branch-name>` can be used to switch between branched.
