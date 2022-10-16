@@ -16,5 +16,3 @@
 - [ ] https://codeforces.com/problemset/problem/1/A
 - [ ] https://codeforces.com/problemset/problem/69/A
 - [ ] https://leetcode.com/problems/two-sum/
-
-#### Ps - 2
