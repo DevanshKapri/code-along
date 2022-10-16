@@ -2,10 +2,10 @@
 
 1. Introduction to Programming
    - Time & Space Complexity
-2. [C++ Basics](https://youtube.com/playlist?list=PLauivoElc3gh48CgP4cQPrC1wrpAqY9cf)
-3. [STL](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
 
----
+2. [C++ Basics](https://youtube.com/playlist?list=PLauivoElc3gh48CgP4cQPrC1wrpAqY9cf)
+
+3. [STL](https://www.youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
 
 ## Questions
 
