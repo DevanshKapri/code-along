@@ -1,4 +1,4 @@
-# Web Development
+# Competitive Programming
 
 1. Introduction to Programming
 
