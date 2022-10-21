@@ -32,17 +32,19 @@ Repository for Coding Practice of IEEE Members.
 
     It'll look something like this -
 
-    #### Name - <your-name>
+    #### Name - Ayush Verma
 
-    #### Branch - <your-branch>
+    #### Branch - Ayush-cpp
 
-    #### Pset X -
+    #### Pset X - 1
 
     | Problem Link |  Status  | Submission Link |
     | ------------ | :------: | --------------: |
-    | Link 1       |   Done   |      Sub-Link 1 |
-    | Link 2       |   Done   |      Sub-Link 2 |
-    | Link 3       | Not Done |                 |
+    | [Link 1](https://codeforces.com/problemset/problem/231/A)     |   Done   |      [Sub-Link 1](https://codeforces.com/problemset/submission/231/176646799) |
+    | [Link 2](https://codeforces.com/problemset/problem/4/A)       |   Done   |      [Sub-Link 2](https://codeforces.com/problemset/submission/4/176648019)   |
+    | [Link 3](https://codeforces.com/problemset/problem/1/A)       |   Done   |      [Sub-Link 3](https://codeforces.com/problemset/submission/1/176649384)   |
+    | [Link 4](https://codeforces.com/problemset/problem/69/A)      |   Done   |      [Sub-Link 4](https://codeforces.com/problemset/submission/69/176651460)  |
+    | [Link 5](https://leetcode.com/problems/two-sum/)              |   Done   |      [Sub-Link 5](https://leetcode.com/problems/two-sum/submissions/)         |
 
 4.  Commit and push the code to your branch after these steps.
 
